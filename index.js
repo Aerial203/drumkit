@@ -54,7 +54,7 @@ function makeSound(key) {
       break;
 
     default:
-      alert("Wrong Key");
+      console.log("wrong key");
   }
 }
 
